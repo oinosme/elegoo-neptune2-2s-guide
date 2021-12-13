@@ -26,6 +26,8 @@ u/ErbalistLLC has a thread with issues in [here](https://www.reddit.com/r/elegoo
 
 
 ### Guides
+* Calibration. To insure everything is working it is highly advisable to follow this [calibration guide](https://teachingtechyt.github.io/calibration.html).
+
 * Assemble your Neptune 2/2S [Elegoo's Youtube](https://www.youtube.com/watch?v=pdOi12rG08A)
 * How to level the platform [Elegoo's Youtube](https://www.youtube.com/watch?v=GXGQjd9bT5w)
 * How to adjust the Z axis limit switch to help leveling [Elegoo's Youtube](https://www.youtube.com/watch?v=ZcQDblh1iZ)
